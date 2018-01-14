@@ -6,7 +6,6 @@
         "url": "https://github.com/bit-chimp/2d-world-editor-js.git"
     },
     "dependencies": {
-        "browserify": "^15.1.0",
         "phaser-ce": "^2.9.4"
     },
     "devDependencies": {

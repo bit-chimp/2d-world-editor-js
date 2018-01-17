@@ -1,7 +1,5 @@
+window.onload = () => {
+var editor = require("./editor.ts");
 
 
-import {test} from './tsapp';
-
-function greet(name){
-    return "Hello there " + name;
 }
